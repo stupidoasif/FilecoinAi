@@ -1,0 +1,6 @@
+{
+  "name": "Filecoin AI Assistant",
+  "description": "A premium AI-powered developer platform for the Filecoin ecosystem, featuring code generation, API exploration, and storage tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
